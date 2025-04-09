@@ -1,0 +1,1 @@
+A simple Java-based Library Management System that allows librarians to manage books and members, and perform essential operations like issuing and returning books. This console application supports both fiction and non-fiction books with detailed object-oriented structure.
